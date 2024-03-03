@@ -25,7 +25,7 @@ public class App
     	  
           System.out.println("Script is Executing");
     	  
-          driver.get("http://localhost:8081/contact.html");
+          driver.get("http://54.205.55.127:8081/contact.html");
     	  System.out.println("Insure me app is opened");
     	  
     	  //System.out.println("Contact us is clicked");
